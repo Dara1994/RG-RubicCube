@@ -1,2 +1,2 @@
-# RG-RubicCube
-Project eritten in C++, use OpenGl library and demonstrates using OpenGl library for creating rubic cube model
+# RG-RubikCube
+Project written in C++, use OpenGl library and demonstrates using OpenGl library for creating rubik cube model
